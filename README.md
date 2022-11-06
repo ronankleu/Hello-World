@@ -9,7 +9,7 @@
 ## Project Title
 *Hello World - Learning Github Basics*
 ## Project description
-I'm using this sample repository to learn the basics about Github. This skill can prove to be helpful in the future.
+I'm using this sample repository to learn the basics about Github. **This skill can prove to be helpful in the future**.
 ## How to run the program
 'Hello_World/
     └── │── README.md
@@ -21,6 +21,8 @@ I'm using this sample repository to learn the basics about Github. This skill ca
 - Found on data.world.com
 - [Life Expentancy at Birth](https://data.world/makeovermonday/life-expectancy-at-birth-by-country)
 ## Additional documentation
-No additional documentation at the moment. Once data f0r 2017-current is available, the file will be updated.
+No additional documentation at the moment. Once data f0r 2017-current is available, the file will be updated.[^1]
+
+[^1]: Please contact me for more information.
 ## Versioning
 Throughout the project, there will be constant auditing.
